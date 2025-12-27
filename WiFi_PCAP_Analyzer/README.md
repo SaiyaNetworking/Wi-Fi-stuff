@@ -122,10 +122,33 @@ If you want a lightweight TXT summary without session reports or raw SSID tables
  `?` — Shortcut for help; behaves the same as `-h`
 
 ## Sample usage
+This is a sample pcap taken from my local Walmart (what better place than Walmart, right?) And there's actually quite a lot of traffic there...
 
-placeholder text.
+First, we will run our script using the command `python3 pcap_analyzer.py --pcap pcap_wallyworld.pcap --out wallyworld`    
+This will run the program to aggregate your chosen pcap file (pcap_wallyword.pcap) and output in the wallyworld directory
 
+![alt text](https://github.com/SaiyaNetworking/Wi-Fi-stuff/blob/main/pictures_wifi/pcap_analyzer2.png)
 
+Using `ls` and navigating to the wallyworld directory using `cd wallyworld` and `ls` again, we can see the full output of     
+both CSV and a .txt file has been exported.
+
+![alt text](https://github.com/SaiyaNetworking/Wi-Fi-stuff/blob/main/pictures_wifi/pcap_analyzer3.png)
+
+Using `nano wireless_summary.txt` we can see the very first table which is the Wardriving Summary. This specific example    
+has over 64,000 lines so I would recommend a different text editor for any large captures that aren't summaries.
+
+![alt text](https://github.com/SaiyaNetworking/Wi-Fi-stuff/blob/main/pictures_wifi/pcap_analyzer4.png)
+
+Windows notepad is my usual goto. Here we are showcasing the Client Session Reports with a suspected eviltwin portal.
+
+![alt text](https://github.com/SaiyaNetworking/Wi-Fi-stuff/blob/main/pictures_wifi/pcap_analyzer5.png)
+
+*Spoiler: It actually isn't an evilportal but the Zebra scanners associating with the MEviuPui311 SSID mesh. The program*    
+*is detecting the MEviuPui311 SSID broadcasting on multiple BSSID's and produced a false positive. This is okay for that*    
+*environment but if it was your own SSID or a small company's, that would be a serious red flag!*
+
+The entire pcap has been uploaded as [pcap_wallyworld.pcap](https://github.com/SaiyaNetworking/Wi-Fi-stuff/blob/main/WiFi_PCAP_Analyzer/pcap_wallyworld.pcap) in this directory and the [wireless_summary.txt](https://github.com/SaiyaNetworking/Wi-Fi-stuff/blob/main/WiFi_PCAP_Analyzer/wallyworld/wireless_summary.txt)    
+are in the uploaded wallyword directory. CSV tables are also in the uploaded wallyworld directory.
 
 
 ## Q & A's
