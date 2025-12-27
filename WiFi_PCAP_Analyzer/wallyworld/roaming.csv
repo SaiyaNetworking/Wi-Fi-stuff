@@ -1,0 +1,13 @@
+ClientMAC,OldAP,NewAP,SSID,Timestamp,Band
+c8:1c:fe:7b:7a:f2,00:3e:73:42:b5:c4,ff:ff:ff:ff:ff:ff,MEviuPuoi311,1766154703.018424,2.4GHz
+ac:3f:a4:f9:f2:82,52:54:00:5e:1d:21,ff:ff:ff:ff:ff:ff,pocwyg7swean,1766154732.913922,2.4GHz
+c8:1c:fe:8a:f2:ef,00:3e:73:42:b1:74,ff:ff:ff:ff:ff:ff,MEviuPuoi311,1766154781.530190,2.4GHz
+48:a4:93:85:e5:be,00:3e:73:42:be:34,ff:ff:ff:ff:ff:ff,pocwyg7swean,1766154803.874559,2.4GHz
+6a:62:33:10:d4:c5,00:3e:73:42:c4:c5,00:3e:73:42:d7:85,SwimUpstream,1766154812.411627,5GHz
+6a:62:33:10:d4:c5,00:3e:73:70:eb:74,ff:ff:ff:ff:ff:ff,SwimUpstream,1766154900.619314,2.4GHz
+94:fb:29:ee:21:68,52:54:00:5e:1d:21,ff:ff:ff:ff:ff:ff,MEviuPuoi311,1766154863.441464,2.4GHz
+6e:2a:ae:54:f4:4b,ff:ff:ff:ff:ff:ff,00:3e:73:42:be:35,SwimUpstream,1766154889.115294,5GHz
+6e:2a:ae:54:f4:4b,00:3e:73:42:c0:a5,ff:ff:ff:ff:ff:ff,SwimUpstream,1766154904.266207,2.4GHz
+3e:76:d4:0b:6b:90,52:54:00:5e:1d:21,ff:ff:ff:ff:ff:ff,SwimUpstream,1766154915.567168,2.4GHz
+82:9e:9b:22:ee:6e,00:3e:73:42:4e:a5,ff:ff:ff:ff:ff:ff,SwimUpstream,1766154934.457619,2.4GHz
+7a:1a:64:b7:bc:d8,52:54:00:5e:1d:21,ff:ff:ff:ff:ff:ff,SwimUpstream,1766154935.094196,2.4GHz

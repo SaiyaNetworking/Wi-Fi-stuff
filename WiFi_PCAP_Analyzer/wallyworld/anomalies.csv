@@ -1,0 +1,45 @@
+Description
+Rogue AP suspected: 32:9b:d6:f7:57:42 broadcasting SSID=Master TV with unknown vendor and no clients
+Rogue AP suspected: a6:6a:44:92:ab:37 broadcasting SSID=VIZIOCastDisplay5784 with unknown vendor and no clients
+Rogue AP suspected: fa:0d:ac:bf:56:1b broadcasting SSID=DIRECT-1B-HP OfficeJet 9010 with unknown vendor and no clients
+"Evil Twin suspected: SSID=MEviuPuoi311 broadcast by multiple vendors: ['00:3e:73:42:4e:a4', '00:3e:73:42:83:24', '00:3e:73:42:95:b4', '00:3e:73:42:9f:74', '00:3e:73:42:b0:e4', '00:3e:73:42:b1:74', '00:3e:73:42:b4:a4', '00:3e:73:42:b5:c4', '00:3e:73:42:b7:14', '00:3e:73:42:b8:64', '00:3e:73:42:be:04', '00:3e:73:42:be:34', '00:3e:73:42:be:f4', '00:3e:73:42:bf:24', '00:3e:73:42:c1:64', '00:3e:73:42:c1:94', '00:3e:73:42:c1:c4', '00:3e:73:42:c2:84', '00:3e:73:42:c9:d4', '00:3e:73:42:d1:b4', '00:3e:73:42:d5:a4', '00:3e:73:42:d6:f4', '00:3e:73:42:d7:84', '00:3e:73:70:eb:53', '00:3e:73:70:f3:33', '00:3e:73:71:12:53', '00:3e:73:71:15:e3', '00:3e:73:71:16:43', 'ff:ff:ff:ff:ff:ff']"
+Probe burst: 3e:76:d4:0b:6b:90 sent 6+ probe requests in under 1 second
+Probe burst: 86:a9:41:b5:d9:60 sent 6+ probe requests in under 1 second
+Probe burst: 6e:2a:ae:54:f4:4b sent 6+ probe requests in under 1 second
+Probe burst: f6:3d:ad:df:a9:1e sent 6+ probe requests in under 1 second
+Probe burst: 94:fb:29:6f:72:68 sent 6+ probe requests in under 1 second
+Probe burst: 8e:4d:26:e8:21:09 sent 6+ probe requests in under 1 second
+Probe burst: 02:95:9d:e8:2d:df sent 6+ probe requests in under 1 second
+Probe burst: c8:1c:fe:7b:7a:f2 sent 6+ probe requests in under 1 second
+Probe burst: 8a:41:a4:ce:6b:d9 sent 6+ probe requests in under 1 second
+Probe burst: 2a:2d:17:6a:43:09 sent 6+ probe requests in under 1 second
+Probe burst: 0c:8b:7d:74:b7:41 sent 6+ probe requests in under 1 second
+Probe burst: f4:52:93:e6:3f:88 sent 6+ probe requests in under 1 second
+Probe burst: 48:a4:93:85:e5:be sent 6+ probe requests in under 1 second
+Probe burst: a2:49:6e:5b:88:cb sent 6+ probe requests in under 1 second
+Probe burst: 46:1f:50:30:21:10 sent 6+ probe requests in under 1 second
+Probe burst: fe:f9:97:ca:b0:45 sent 6+ probe requests in under 1 second
+Probe burst: 94:fb:29:ee:21:68 sent 6+ probe requests in under 1 second
+Probe burst: 02:9e:d5:a2:6f:22 sent 6+ probe requests in under 1 second
+Probe burst: fe:64:ae:ed:6c:12 sent 6+ probe requests in under 1 second
+Probe burst: 6a:62:33:10:d4:c5 sent 6+ probe requests in under 1 second
+Probe burst: 48:a4:93:e8:31:08 sent 6+ probe requests in under 1 second
+Probe burst: 9e:02:d2:a0:54:d8 sent 6+ probe requests in under 1 second
+Probe burst: 8a:87:ca:4e:47:59 sent 6+ probe requests in under 1 second
+Probe burst: 82:9e:9b:22:ee:6e sent 6+ probe requests in under 1 second
+Randomized MAC 3e:76:d4:0b:6b:90 sent data frames (unusual behavior)
+Randomized MAC 3e:76:d4:0b:6b:90 performed roaming (very unusual)
+Randomized MAC 7e:c5:b2:43:77:cc sent data frames (unusual behavior)
+Randomized MAC 6e:2a:ae:54:f4:4b performed roaming (very unusual)
+Randomized MAC 8a:41:a4:ce:6b:d9 sent data frames (unusual behavior)
+Randomized MAC a6:25:12:3a:c8:0a sent data frames (unusual behavior)
+Randomized MAC c6:6f:e5:f4:4d:57 sent data frames (unusual behavior)
+Randomized MAC 6a:62:33:10:d4:c5 performed roaming (very unusual)
+Randomized MAC 82:9e:9b:22:ee:6e sent data frames (unusual behavior)
+Randomized MAC 82:9e:9b:22:ee:6e performed roaming (very unusual)
+Randomized MAC 7a:1a:64:b7:bc:d8 sent data frames (unusual behavior)
+Randomized MAC 7a:1a:64:b7:bc:d8 performed roaming (very unusual)
+RSSI anomaly: 02:13:37:ac:84:38 signal changed by 39 dB in under 2 seconds
+RSSI anomaly: 00:3e:73:42:b7:33 signal changed by 27 dB in under 2 seconds
+RSSI anomaly: 00:3e:73:42:d1:d3 signal changed by 28 dB in under 2 seconds
+RSSI anomaly: 00:3e:73:42:d1:d5 signal changed by 28 dB in under 2 seconds
