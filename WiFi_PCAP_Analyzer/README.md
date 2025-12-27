@@ -35,6 +35,7 @@ This script uses Scapy for packet parsing and Pandas for data analysis.
 - Scapy
 - Pandas
 - A monitor‑mode Wi‑Fi capture (pcap)
+- The [oiu.txt](https://github.com/SaiyaNetworking/Wi-Fi-stuff/blob/main/WiFi_PCAP_Analyzer/oui.txt) file in the same directory as the python program
 
 
 ## Quick Start
