@@ -36,6 +36,7 @@ This script uses Scapy for packet parsing and Pandas for data analysis.
 - Pandas
 - pcap file
 - The [oiu.txt](https://github.com/SaiyaNetworking/Wi-Fi-stuff/blob/main/WiFi_PCAP_Analyzer/oui.txt) file in the same directory as the python program
+  - This is to map out any MAC addresses to their vendors if applicable
 
 
 ## Quick Start
@@ -155,7 +156,8 @@ are in the uploaded wallyword directory. CSV tables are also in the uploaded wal
 ## Q & A's
 ***Why not use wireshark?***    
 Because I'm bad at wireshark and I wanted something that would aggregate information quickly    
-on any linux environment. Termux on mobile is currently a work in progress.
+on any linux environment. ~~Termux on mobile is currently a work in progress.~~ Scrapped for now,    
+scapy and pandas doesn't behave well on rootless Termux.
 
 ***Was this written by AI?***    
 Yes! Microsoft Copilot, specifically. It took about 60 hours and hundreds of prompts to build this.    
