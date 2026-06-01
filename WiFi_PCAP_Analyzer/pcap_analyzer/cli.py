@@ -46,21 +46,21 @@ def parse_args():
         sys.argv[1] = "-h"
 
     parser = argparse.ArgumentParser(
-        prog="pcap_analyzer.py",
+        prog="python -m pcap_analyzer",
         description=(
             "Wireless PCAP Analyzer\n"
             "Analyze Wi-Fi PCAP files and export structured TXT and CSV reports.\n\n"
             "Quick start:\n"
-            "  pcap_analyzer.py --pcap filename.pcap\n\n"
+            "  python -m pcap_analyzer --pcap filename.pcap\n\n"
             "Examples:\n"
             "  Analyze a single PCAP:\n"
-            "      pcap_analyzer.py --pcap filename.pcap\n\n"
+            "      python -m pcap_analyzer --pcap filename.pcap\n\n"
             "  Analyze all PCAPs in a folder:\n"
-            "      pcap_analyzer.py --pcap logs/\n\n"
+            "      python -m pcap_analyzer --pcap logs/\n\n"
             "  Export only frames and AP summaries:\n"
-            "      pcap_analyzer.py --pcap filename.pcap --csv-list frames,aps\n\n"
+            "      python -m pcap_analyzer --pcap filename.pcap --csv-list frames,aps\n\n"
             "  Skip CSVs for faster runs:\n"
-            "      pcap_analyzer.py --pcap filename.pcap --no-csv\n"
+            "      python -m pcap_analyzer --pcap filename.pcap --no-csv\n"
         ),
         epilog=(
             "Performance Tips:\n"
